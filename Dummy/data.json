@@ -1,3 +1,29 @@
-[{"id":"0.7249803826684236","title":"NodeJS Book","imageUrl":"https://www.oreilly.com/library/cover/9781617294747/1200w630h/","description":"NodeJS Essentials Book","price":"22.99"},
-{"id":"0.694610357168199","title":"MongoDB Book","imageUrl":"https://www.oreilly.com/library/cover/9781492015499/1200w630h/","description":"MongoDB Essentials Book","price":"17.5"},
-{"id":"0.6403380954271516","title":"ReactJS Book","imageUrl":"https://www.oreilly.com/library/cover/9781492019459/1200w630h/","description":"ReactJS Essentials","price":"20.2"}]
+[
+  {
+    "title" :"Javascript Book","imageUrl" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyFQiMxuPlbtx8fZqhR5eB3T4u937x-mM7A&usqp=CAU", "description":"Javascript Essentials","price":"22.2"
+  },
+  {
+    "title":"ReactJS Book","imageUrl":"https://www.oreilly.com/library/cover/9781492019459/1200w630h/","description":"ReactJS Essentials","price":"16.34"
+  },
+  {
+    "title":"Angular Book","imageUrl":"https://cdn.educba.com/academy/wp-content/uploads/2023/04/ng-book.png","description":"Angular Essentials","price":"12.52"
+  },
+  {
+    "title":"NextJS Book","imageUrl":"https://products-images.di-static.com/image/brandon-kim-the-next-js-handbook-a-complete-resource-for-developers/9798223864660-475x500-1.jpg","description":"NextJS Essentials","price":"19.78"
+  },
+  {
+    "title":"TypeScript Book","imageUrl":"https://imgv2-1-f.scribdassets.com/img/document/518060759/original/b9943f843a/1712986855?v=1","description":"TypeScript Essentials","price":"14.8"
+  },
+  {
+    "title":"Flutter Book","imageUrl":"https://docs.flutter.dev/assets/images/docs/cover/flutter-succinctly.png","description":"Flutter Essentials","price":"13.64"
+  },
+  {
+    "title":"NodeJS Book","imageUrl":"https://m.media-amazon.com/images/I/41x16COYK4L._SL500_.jpg","description":"NodeJS Essentials","price":"18.99"
+  },
+  {
+    "title":"ExpressJS Book","imageUrl":"https://m.media-amazon.com/images/I/61YRNoHSHQL._AC_UF1000,1000_QL80_.jpg","description":"ExpressJS Essentials","price":"14.62"
+  },
+  {
+    "title":"MongoDB Book","imageUrl":"https://m.media-amazon.com/images/I/41Jdv8c3eaL.jpg","description":"MongoDB Essentials","price":"17.5"
+  }
+]
