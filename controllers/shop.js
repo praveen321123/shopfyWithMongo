@@ -18,7 +18,7 @@ exports.getProduct = (req, res, next) => {
   Product.findById(prodId).then(product => {
     res.render('shop/product-detail', {
       product: product,
-      pageTitle: product.title,
+      pageTitle:`AchieversIT ${product.title}`,
       path: '/products'
     });
   }).catch((err)=> {
